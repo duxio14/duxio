@@ -7,4 +7,4 @@ Here is some information that concerns me
   <img src="https://github-readme-stats.vercel.app/api?username=duxio14&show_icons=true&theme=github_dark&line_height=15" class="flex-fill ml-2" style="margin-top: 10px; height: 125px" />
 </div>
 
-
+You can reach me on Discord at **duxio#5335**.
