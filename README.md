@@ -2,5 +2,4 @@
 
 Here is some information that concerns me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxio14&layout=compact&theme=dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duxio14&theme=github_dark&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=duxio14&show_icons=true&theme=github_dark&line_height=20) |
